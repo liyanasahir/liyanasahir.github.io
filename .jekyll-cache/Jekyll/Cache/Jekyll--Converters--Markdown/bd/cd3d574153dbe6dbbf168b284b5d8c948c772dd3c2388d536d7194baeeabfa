@@ -1,0 +1,28 @@
+I"�<p><em>Sharing the code to extract details of subscribers to your own telegram channel.</em></p>
+
+<h3 id="1-installtelethon"><strong>1. Install telethon</strong></h3>
+
+<p>pip3 install telethonIf you don’t have pip installed, execute this first:</p>
+
+<p><code class="highlighter-rouge">sudo apt install python3-pip</code></p>
+
+<h3 id="2-create-aclient">2. Create a client</h3>
+
+<p>Before working with Telegram’s API, you need to get your own API ID and hash:</p>
+
+<ol>
+  <li>Follow <a href="https://my.telegram.org/">this link</a> and login with your phone number.</li>
+  <li>Click under API Development tools.</li>
+  <li>A <em>Create new application</em> window will appear. Fill in your application details. There is no need to enter any <em>URL</em>, and only the first two fields (<em>App title</em> and <em>Short name</em>) can currently be changed later.</li>
+  <li>Click on <em>Create application</em> at the end. Remember that your <strong>API hash is secret</strong> and Telegram won’t let you revoke it. Don’t post it anywhere!
+(<a href="https://telethon.readthedocs.io/en/latest/extra/basic/creating-a-client.html">Source</a>)</li>
+</ol>
+
+<h3 id="3-runcode">3. Run code</h3>
+
+<p>Run this python code, replacing the api_id, api_hash, channel and phone number details:</p>
+
+<script src="https://gist.github.com/liyanasahir/1411b833d0dcfbf7f5533aa058c3bbfa.js"></script>
+
+<p>Tada! You should now have a list of subscribers to your channel along with their names displayed on your terminal.</p>
+:ET

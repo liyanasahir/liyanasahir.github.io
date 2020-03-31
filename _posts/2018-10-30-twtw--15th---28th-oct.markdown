@@ -1,0 +1,22 @@
+---
+layout:	post
+title:	"TWTW: 15th — 28th Oct"
+date:	2018-10-30
+image:  ted2.jpeg
+tags: tedx, twtw
+---
+*The Weeks That Were : Two weeks with one extreme high and a few bumpy lows.*
+
+21st October was the day in which we witnessed a bright culmination of over a year and half of efforts — efforts to bring the TEDx platform to GCE Kannur.
+
+[TEDxGCEKannur](https://www.ted.com/tedx/events/30818) had the theme ‘New Paradigms, New Solutions’. The speakers ranged from artists to entrepreneurs to environmental activists. Quite a few interesting performances too — Parvez Ilahi’s story telling stole quite a few hearts, for sure.
+
+![]({{ site.baseurl }}/images/ted1.jpeg)
+*The team behind the event!*
+
+I had been involved with curating speakers for TEDxGCEKannur for quite a while, but a couple days before the event, something unexpected came up. Long story short, I’ve had the terrifying and exhilarating experience of standing under the spotlight at a TEDx stage — as a host. To say I was nervous when I started out is putting it lightly. However, the energy of the speakers, the spark in their ideas and the charisma with which they handled their talks had quite an effect on everyone, and changed around the whole vibe by the end of the day.
+
+![]({{ site.baseurl }}/images/ted2.jpeg)
+*The speakers and performers, along with the curator team.*
+
+After the high of an event that went well, came the intermittent fever, which lasted for a few days. With recovery came the reality of attendance shortages and missed assignment deadlines. Things are looking a bit crazy at the moment, but let’s hang in there until I figure it out.

@@ -1,0 +1,44 @@
+#-------------------------------
+# General Site Settings
+title: Liyana Sahir
+logo: header.png # You can add own logo.
+description: Personal Website of Liyana Sahir
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Liyana Sahir
+  image: main.jpeg
+  say-hello: Hello, I’m <strong>Liyana Sahir</strong>
+  bio: Computer Science Engineering Undergraduate. Designs, talks, and writes about <strong>deep learning</strong>, <strong>communities</strong> and <strong>women in tech</strong>. I share coding tutorials, tech happenings and mini-adventures while figuring things out.
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/liyanasahir # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/liyanasahir # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: https://linkedin.com/in/liyanasahir
+medium: https://medium.com/liyanaliasahir
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: liyanasahir-github-io # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: liyanasahir # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-162265466-1
+
+
+#-------------------------------
+# Newsletter
+#mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
