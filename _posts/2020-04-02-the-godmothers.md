@@ -11,11 +11,14 @@ It was a new initiative by [Arya](http://aryamurali.com) & co and as a first ste
 
 When Arya asked me if I would like to volunteer, I didn’t have to think much. As a participant in such previous initiatives by Arya, I had first hand experience. I had faith in her vision and execution, and knew how beneficial it could potentially be. Also, there’s always something new to learn when working alongside people who have more experience than you
 
-I was in that stage of my life where after a continuous series of overcommitting and feeling exhausted, I was getting better at saying no. Like Derek Severs [says](https://sivers.org/hellyeah), “*When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say ‘HELL YEAH!’*”. So after a series of conversations and a 45 minute call later, I was on board as the Head of Engagements for Godmothers.
+I was in that stage of my life where after a continuous series of overcommitting and feeling exhausted, I was getting better at saying no. I was reminded of a blog post written by [Derek Severs](https://sivers.org/hellyeah),
+>“*When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say ‘HELL YEAH!’*”.
+
+And thus, after a series of conversations and a 45 minute call later, I was on board as the Head of Engagements for Godmothers.
 
 ***
 
-In the following days, I mainly communicated with the women who had expressed interest in the scholarship, sending updates from the godmothers along with tips to build their website. To provide context as well as guidance surrounding the scholarship, we also held a virtual conference in the weekend leading up to the submission deadline.
+In the following days, I communicated with the women who had expressed interest in the scholarship, sending updates from the godmothers along with tips to build their website. To provide context as well as guidance surrounding the scholarship, we also held a virtual conference in the weekend leading up to the submission deadline.
 
 ![]({{ site.baseurl }}/images/5.png){:style="margin: 0 auto; display: block;"}
 *The Godmothers Talk: Virtual Conference on Personal Branding & Building a Personal Website*
@@ -26,7 +29,7 @@ And yes, I got to speak too - a small tutorial on three ways you can build your 
 
 ***
 
-The Godmother Fund was put together with a small amount of money the godmothers offered to contribute towards another young woman's growth. This is a revolving fund, ie, beneficiaries are expected to pay it forward in the future, thus expanding the network and bringing more women up.
+The Godmother Fund was put together with a small amount of money the godmothers offered to contribute from their income towards another young woman's growth. This is a revolving fund, ie, beneficiaries are expected to pay it forward in the future, thus expanding the network and bringing more women up.
 
 The DNS scholarship application closed on March 8th, and the winners were announced a week later through our instagram page. Much to my surprise, Arya told me that the scholarship was being extended to me as well - so that’s the story behind this brand new domain name. :)
 
