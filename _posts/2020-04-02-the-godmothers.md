@@ -41,5 +41,6 @@ In a way, there's no greater incentive to keep blogging and documenting my exper
 
 This blog was built using Jekyll and hosted using Github Pages. If anything is broken or not functioning the way it is supposed to, feel free to let me know.
 
-For more information about The Godmothers, visit godmothers.in
-To receive updates and news about future scholarships, follow \@godmotherstalk on Instagram.
+For more information about The Godmothers, visit [godmothers.in](http://godmothers.in).
+
+To receive updates and news about future scholarships, follow @godmotherstalk on Instagram.
