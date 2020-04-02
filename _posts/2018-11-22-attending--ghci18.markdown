@@ -2,7 +2,7 @@
 layout:	post
 title:	"Attending #GHCI18!"
 date:	2018-11-22
-image:  ghci.jpeg
+image:  ghci2.jpg
 tags: WOMEN-IN-TECH, GHCI
 ---
 The *Grace Hopper Celebration India* is Asia’s largest gathering of women technologists. It is produced by AnitaB.org and presented in partnership with ACM India. This year, GHCI took place between 14th and 16th November in Bangalore, and I was lucky enough to witness what this celebration was all about.
