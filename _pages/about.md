@@ -9,9 +9,7 @@ Hey, I am Liyana! :)
 
 I’m a final year Computer Science & Engineering student from Government College of Engineering, Kannur. I’ve been in love with computers from a very young age. So when the time came, learning to make it dance to my tune - or, you know, function according to my code - seemed like just the right choice.
 
-For the past couple years, I’ve been exploring my interests in robotics, web-development, and image processing. I like carrying my learning forward - I’ve facilitated classes in C, Python, Arduino programming, Computer Vision and Machine Learning using Tensorflow.
-
-College was also where I got to explore development and leadership as well as utilize them to work towards the causes that are close to my heart. You can find more of my work experience on [Linkedin](linkedin.com/in/liyanasahir) and view some of my projects on [Github](github.com/liyanasahir).
+For the past couple years, I’ve been exploring my interests in robotics, web-development, and image processing. I like carrying my learning forward - I’ve facilitated classes in C, Python, Arduino programming, Computer Vision and Machine Learning using Tensorflow. College was also where I got to explore development and leadership as well as utilize them to work towards the causes that are close to my heart.
 
 *Apart from that?*
 
@@ -23,10 +21,14 @@ I love to read. I love to write too, though this wouldn't come as a surprise.
 
 You can win my heart with a well made cup of chai.
 
-Would you like to know what I am doing [now?](liyanasahir.in/now)
+Would you like to know what I am doing [now?](http://www.liyanasahir.in/now)
 
 ***
 
 #### Get in Touch
 
 The best way to reach me is via mail : liyanaliasahir@gmail.com
+
+
+* [Linkedin](https://linkedin.com/in/liyanasahir)
+* [Github](https://www.github.com/liyanasahir).
