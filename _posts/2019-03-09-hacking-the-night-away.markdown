@@ -2,7 +2,7 @@
 layout:	post
 title:	"Hacking the Night Away"
 date:	2019-03-09
-image: htn9.jpeg
+image: htn9.png
 tags: hackathon, wit
 ---
 *A month ago, we organized Hack the Night — a 24-hour hackathon, exclusively for women. This is the story of all that went on behind the scenes.*
