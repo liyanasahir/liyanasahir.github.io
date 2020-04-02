@@ -9,8 +9,7 @@ Sometime in mid-february, I came to know about Godmothers, a project to encourag
 
 It was a new initiative by [Arya](http://aryamurali.com) & co and as a first step, they were rolling out the Domain Name Scholarship, for female students or professionals aged between 18 and 24 to buy a domain name for their personal website.
 
-When Arya asked me if I would like to volunteer I didn’t have to think much. I was in that stage of my life where after a continuous series of overcommitting and feeling exhausted, I was getting better at saying no. I was reminded of a blog post written by [Derek Severs](https://sivers.org/hellyeah),
->“*When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say ‘HELL YEAH!’*”.
+When Arya asked me if I would like to volunteer I didn’t have to think much. I was in that stage of my life where after a continuous series of overcommitting and feeling exhausted, I was getting better at saying no. I was reminded of a blog post written by [Derek Severs](https://sivers.org/hellyeah):“*When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say ‘HELL YEAH!’*”.
 
 Having been a participant in similar previous initiatives by Arya, I had faith in her vision and execution - I knew how beneficial it could potentially be. There’s also always something new to learn when working alongside people who have more experience than you.
 
