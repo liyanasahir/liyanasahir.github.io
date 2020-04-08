@@ -23,4 +23,4 @@ Would you like to know what I am doing [now?](http://www.liyanasahir.in/now)
 
 The best way to reach me is via mail : liyanaliasahir@gmail.com
 
-[Linkedin](https://linkedin.com/in/liyanasahir) | [Github](https://www.github.com/liyanasahir).
+[Linkedin](https://linkedin.com/in/liyanasahir) \| [Github](https://www.github.com/liyanasahir).
