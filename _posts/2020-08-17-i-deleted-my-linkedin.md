@@ -27,7 +27,7 @@ I know Linkedin is an integral part of your online presence, more so for a recen
 
 Having made that decision, I was caught staring at my homepage, seeing some familiar names after a long while. It was nice to see updates from people I had studied with in high school, people with whom I’ve been long out of touch, to see where they had finally decided to land after graduation (or to take off from - we are fresh graduates, after all). It was nice to see all the updates from my college clubs, and to see how students were interacting with these pages and making their own presence felt. It filled me with warmth to see them embracing their achievements, something that still feels taboo to a lot of us. 
 
-I’ll be back someday soon  - a week? a month? several months? who knows? - when I am ready to navigate the rest of whatever is ahead for me. 
+I’ll be back someday soon  - a week? a month? several months? who knows? - when I am ready to navigate the rest of whatever is ahead for me, with a fresher outlook.
 
 But until then, I guess it's goodbye. 
 
