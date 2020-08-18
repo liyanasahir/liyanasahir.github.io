@@ -15,7 +15,7 @@ Apart from computer science, college was where I got to explore different commun
 
 I'm passionate about inclusion, in levelling the playing field for women in tech. I love to read. I love to write too, though this wouldn't come as a surprise. You can win my heart with a well made cup of tea. You can give me a mic and put me in front of a crowd and I'd comfortably find my way through.
 
-Would you like to know what I am doing [now?](http://www.liyanasahir.in/now)
+Would you like to know what I am doing [now?](https://www.liyanasahir.in/now)
 
 ***
 
