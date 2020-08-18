@@ -29,7 +29,7 @@ I know Linkedin is an integral part of your online presence, more so for a recen
 
 Having made the decision to delete, I couldn't help scrolling through my homepage. I saw some familiar names after a long long while. It was nice to see updates from people I had studied with in high school, people with whom I’ve been long out of touch - updates telling me where they had finally decided to land after graduation (or to take off from - we are fresh graduates, after all). Updates from seniors in college who I hadn't heard from in a while. I was happy to see all the posts from college clubs I had led at some point or been a part of in some capacity, to watch how new student leaders were interacting with these pages, updating them diligently and making their own presence felt. It filled me with warmth to see them embracing their achievements, something that still feels taboo to a lot of us. 
 
-I’ll be back someday soon (a week? a month? several months? who knows?), when I am ready to navigate the rest of whatever is in store for me - but with a much fresher outlook.
+I’ll be back someday soon (a week? a month? several months? who knows?), when I am ready to navigate the rest of whatever is in store for me - with a much fresher outlook.
 
 But until then, I guess it's goodbye. 
 
