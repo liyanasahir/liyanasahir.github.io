@@ -21,6 +21,6 @@ Would you like to know what I am doing [now?](https://www.liyanasahir.in/now)
 
 #### Get in Touch
 
-The best way to reach me is via mail : liyanaliasahir@gmail.com
+The best way to contact me is via mail : liyanaliasahir@gmail.com
 
 If you've read and liked any of my stories, feel free to follow me on [instagram](https://instagram.com/liyanasahir) for updates on future posts.
