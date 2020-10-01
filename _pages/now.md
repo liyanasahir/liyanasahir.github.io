@@ -7,11 +7,14 @@ image: now.jpg
 
 # What I’m Doing Now:
 
+##### Reading
+*Writing to Learn* by William Zensser
+*Algorithms of Oppression* by Safiya Noble
+*Deep Work* by Cal Newport
+
 ##### Coding
-Exploring Computer Vision and Deep Learning. Completing my final project on Visual Question Answering.
+Exploring Natural Language Processing. Trying to find my way around Kaggle.
 
 ##### Leading
-Coordinating a team of female leaders to carry forth skill building initiatives for freshers under the Scheme for Her Empowerment @GCEKannur.
+Coordinating a team of female leaders to carry forth capability building initiatives under the Scheme for Her Empowerment @GCEKannur.
 
-##### Reading
-*Ummachu* by Uroob
