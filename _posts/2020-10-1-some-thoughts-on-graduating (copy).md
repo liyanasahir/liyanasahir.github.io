@@ -1,0 +1,111 @@
+---
+layout:	post
+title:	"On the gate that was crossed"
+date:	2021-03-31 13:20:00
+tags: PERSONAL
+---
+
+I know, couldn't have had a cheesier title if I tried. Moving on.
+
+I did a Q&A with Careers360 during the weekend. Adding here the unedited version because I felt it represented me more accurately (and because I'm a fan of line breaks between huge chunks of text). 
+
+
+***
+**Careers360: Congratulations on becoming the GATE 2021 topper. How do you feel when you come to know that you are the topper of GATE 2021.**
+
+Thank you! And to answer your question - it felt unreal. I am still getting used to it.
+
+I was hoping for anything less than 300 so I could have the option to at least attempt the interview rounds of some of the colleges I had in mind, so when I saw the rank before me it took some time to digest that this was mine.
+
+**Careers360: Tell us something about yourself; Where have you done your engineering from and in which branch?**
+
+I&#39;ve done my engineering from Government College of Engineering, Kannur, Kerala.
+
+I loved studying computer science and coding while in high school, and so it was a no-brainer that I would choose the branch for engineering.
+
+**Careers360: What was the GATE Paper you appeared in? What rank did you get in GATE 2021? What is your GATE score and how many marks did you secure out of 100 in GATE paper 2021?**
+
+CS &amp; IT. I got AIR 10 with a score of 976, normalized marks out of 100 being 77.66.
+
+**Careers360: Is this your first attempt or did you attempt GATE earlier?**
+
+I attempted in 2020 while pursuing my final year. As preparation at the time, I strengthened my knowledge in C Programming and Algorithms, and attempted 4 to 5 previous papers before the exam.
+
+I had to take time away from more serious GATE preparation in 2020 after I decided to focus more on my project work and some other things that were happening. I was also growing more comfortable with the idea of taking a gap year, not just for GATE, but for myself. I felt GATE could wait.
+
+I ended up with a score around 48.9 and an AIR of 2111 in GATE 2020.
+
+**Careers360: What was the reason you appeared for GATE 2021? Pls elaborate.**
+
+Towards the end of my bachelors, I realized I had an interest in studying further and in doing research (I&#39;ve written more about that [here](https://liyanasahir.in/2020/10/01/some-thoughts-on-graduating/)). I explored the possibility of going into engineering management, or going into core computer science. I looked into masters programs in and out of India, and felt like IISc or IIT Bombay would provide a good enough space for what I wanted to test out - and GATE was the way to go, to get into the above or any of the other top colleges in India.
+
+**Careers360: Have you applied to any PSUs recruiting through GATE? Which ones?**
+
+No - not really something I&#39;m exploring at the moment.
+
+**Careers360: When did you start your preparation?**
+
+I used to watch an hour or two of videos starting September 2020, and started serious preparation by the end of the month. I was working until then, so I asked for a break to focus more on GATE starting October.
+
+**Careers360: Have you taken any coaching? If yes- From where? How did it help?**
+
+I obtained the course videos for GATE Applied Course at the end of my final year. For GATE 2020, I used the videos to brush up on CP, DS &amp; Algo. In 2021, I used the videos to go through most of the other subjects.
+
+It really helped in multiple ways. GATE has a very vast syllabus, and unless you&#39;re dedicated about going through each of the standard textbooks and picking out the topics within the syllabus, the process could be very time-consuming. While I made my way through them during BTech, I felt like I didn&#39;t really have the time to go through each of them by the time I got serious about attempting GATE later - since I had a tendency to go deep in one topic while what GATE required was a breadth-first approach. In contrast, going through videos at your own speed makes last minute preparation relatively easier, because you know all the most important topics will be covered by the time you finish watching the videos.
+
+I registered for Applied Course in particular because after having sampled a lot of different content on youtube, I found I liked the way Prof. Srikanth taught the best - the lectures felt like they had a very logical flow, and he had a very palpable enthusiasm for the subjects being taught that was very contagious. It didn&#39;t feel like I was being fed equations or shortcuts for rote memorization. I also learnt much from the way in which tough problems were encouraged to be approached.
+
+**Careers360: Can you share any preparation strategies with our readers? When should one start their preparation for the GATE exam?**
+
+Honestly, I don&#39;t think I&#39;m qualified to advise others! This would depend a lot from person to person, I feel. Depending on how much time you have left from the time you decide you want to crack GATE, how much you&#39;re aiming for, where you want to get in, whether you have to juggle other things like a job or project work, the strategy could differ.
+
+But I&#39;ll share what worked for me, and what I&#39;ve learned along the way. Feel free to take everything with a pinch of salt.
+
+I had a good enough base built over my four years of engineering. From October 2020, I started putting in 4-5 hours on average - I say this on average because I&#39;ve had 8 hour study days and 1 hour study days. I dedicated October and November in this way to finish the syllabus. For subjects or topics in which I already knew enough, I went through the short notes that Applied Course has made available online (free for all) and skipped the videos. I took subject tests at the end of each.
+
+In December, I started taking full length mock tests - after each test, I used to note down new information as well as the mistakes I made. At the end of December, I also registered for the MadeEasy test series. I must have taken around 15 to 20 mock tests in total that month. This was also a fun way to revise.
+
+In January, I took a look at the last 10 years of previous question papers and went through the short notes of each subject. I also spent a significant time on GateOverflow.in at this point, viewing the discussions on the platform and looking at how different people approached the same problem.
+
+And finally, if you&#39;re a first or second year student looking to get in by your final year, and is really dedicated about it - take a look at the GATE syllabus and attempt tests from the relevant subjects on free platforms like GeeksforGeeks or Gate Overflow as they are being taught in class. Standard textbooks can look daunting when you&#39;re new to engineering, but some of them _are_ really friendlier than they look - slowly test the waters now because you have the time for it.
+
+If the topics do not make sense or the language used in the textbooks does not come easily to you, you can try NPTEL videos or explore videos from the many channels on Youtube - different professors have different approaches that work for different people. For example, I found Prof. Shai Simonson&#39;s videos on Undecidability for TOC to be really interesting - perhaps not from a GATE point of view, but he does unlock a certain angle to thinking about the theory of computation that made it feel more interesting to me.
+
+If you&#39;re a final year student who just decided you want to take GATE seriously and crack it in one go, a similar approach to what I did, spread out over the last 6 months consistently would definitely give you a leg up.
+
+**Careers360: How important do you feel mock tests are and why?**
+
+Mock tests are important primarily because they give you a taste of the final 3 hours of exam. Sometimes, it wouldn&#39;t be enough that you know all the concepts - I&#39;ve heard a lot about people panicking on the spot and everything they knew suddenly going down the drain. Mock tests help you get used to those 3 hours of intense problem solving - you can make note of when your energy wanes, what to do when you start feeling stuck, and so on so that you aren&#39;t stuck in the last minute.
+
+Doing multiple mock tests is also important because it acts as a form of revision, and sometimes helps you uncover blindspots within the topics you have studied. Mock tests are only as worthwhile as the amount of effort you put into the analysis after it is done. Where have I gone wrong, and why did it happen? Did I have a lack of conceptual clarity, or was I making silly mistakes? What type of silly mistakes do I have a tendency to make, and when do they happen more often?
+
+**Careers360: Which books did you follow for GATE preparation? Pls name some very important must read books for GATE 2021?**
+
+While I&#39;ve used standard textbooks during my undergrad, I didn&#39;t go through them cover to cover for GATE except to clarify certain information every now and then. The ones I found very comfortable in particular are:
+
+_Operating Systems by Galvin &amp; Silberschatz_
+
+_Fundamentals of Database Systems by Elmasri and Navathe_
+
+_Digital Logic and Computer Design by Morris Mano_
+
+**Careers360: What was the toughest aspect in your GATE preparation?**
+
+Consistency. I am not someone who can focus on studies at a stretch without something exciting happening side by side, so Oct-Jan was a tough period. I could not put in consistent hours everyday - some days I got really into the whole process without realizing the hours pass, and on other days I&#39;ve forced myself to go through at least one topic or test so I could go to bed that night without feeling completely guilty.
+
+Keeping your morale in check is also a tricky thing - I had plans B and C outlined so that I wouldn&#39;t feel the intense pressure of having no other option but to crack GATE, but I also knew I really really wanted plan A to work. Sometimes you have no idea if what you&#39;re doing is enough, or even the right thing. Covid added a whole other dimension of uncertainty into the midst. It&#39;s human to have to deal with all the associated anxiety, I think.
+
+**Careers360: What did you do for leisure? Any specific activities that helped you unwind?**
+
+I love to read. I actually got back into reading and exploring genres outside of my comfort zone during the past year. I also discovered some great essays, old and new (long form writings without having to immerse yourself into the 250 pages of a book, and more in-depth than the 250 characters of twitter). I also have a habit of scribbling a lot in my notebooks when I&#39;m distracted by different things. I published some of them [here](https://liyana.substack.com/) - they&#39;re not as polished as I would like, but it sort of helped me in a way by acting like an occasional brain dump.
+
+In October, I was also living with my parents after almost 5 years away - so there was a lot of catch up to be done, stories to be shared, long walks and joint grocery shopping in the evenings. I&#39;ve also watched my share of Youtube and Netflix.
+
+**Careers360: Any advice for the future aspirants?**
+
+Having a clarity of mind as to why you&#39;re doing this is very important. When I attempted in 2020, not only was I not sure if I had it in me, I was also unclear about whether this was really the route I wanted to follow - which led to a lack of commitment and time given towards my preparation.
+
+Once you know why you&#39;re in this - the rest should be easy enough to figure out. Everyone (including me!) will have a lot of advice for you. But make sure you follow the things that feel most intuitive to you, given your understanding of your own strengths and weaknesses. All the best! :)
+***
+
+I post once in a bluemoon. If you'd like updates about future posts, find me on [Instagram](https://www.instagram.com/liyanasahir/). And as always, if you've reached this far, I'd love to know your thoughts. 

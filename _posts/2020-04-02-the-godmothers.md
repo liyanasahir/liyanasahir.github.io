@@ -11,7 +11,7 @@ It was a new initiative by [Arya](http://aryamurali.com) & co and as a first ste
 
 When Arya asked me if I would like to volunteer for The Godmothers, I didn’t have to think much.
 
-I was in that stage of my life where after a continuous series of overcommitting and feeling exhausted, I was getting better at saying no. I was reminded of a blog post written by [Derek Severs](https://sivers.org/hellyeah):“*When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say ‘HELL YEAH!’*”.
+I was in that stage of my life where after a continuous series of overcommitting and feeling exhausted, I was getting better at saying no. I was reminded of a blog post written by [Derek Severs](https://sivers.org/hellyeah):“*When you say no to most things, you leave room in your life to really throw yourself completely into that rare thing that makes you say ‘Hell Yeah!’*”.
 
 Having been a participant in similar previous initiatives by Arya, I had faith in her vision and execution - I knew how beneficial it could potentially be. There’s also always something new to learn when working alongside people who have more experience than you.
 
@@ -25,8 +25,6 @@ In the following days, I communicated with the women who had expressed interest 
 *The Godmothers Talk: Virtual Conference on Personal Branding & Building a Personal Website*
 
 We kicked off the conference on March 4th through an instagram live where I interviewed [Ruby](https://www.linkedin.com/in/rubypeethambaran/), one of the godmothers. It was a fun session where we discussed her [blog post](https://thegirlwrites.in/personal-branding/#comments) and talked about the importance of owning your narrative. My favorite of the conference sessions might be the one with Annie, titled ‘Career Lessons’. It’s a candid conversation between Arya and Annie where they share personal anecdotes and uncover their learnings in their respective careers, while answering the underlying question: “How will women break the glass ceilings if they are still trying to fit into the glass slippers?”
-
-And yes, I got to speak too - a small tutorial on three ways you can build your personal website without coding. It was very satisfying to see it all came together.  If you'd like to take a look, all the sessions of the conference have been documented on the [Godmothers website](https://sites.google.com/aryamurali.com/godmothers/virtual-conference-sessions).
 
 ***
 

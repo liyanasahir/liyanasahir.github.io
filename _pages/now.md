@@ -15,5 +15,5 @@ image: now.jpg
 Automating things with Google App Scripts.
 
 ##### Leading
-Coordinating a team of female leaders to carry forth capability building initiatives under the Scheme for Her Empowerment @GCEKannur.
+Working as program manager for Women In Tech International, India. 
 
