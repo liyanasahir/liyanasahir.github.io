@@ -7,7 +7,7 @@ image: bio.jpg
 
 Hey, I am Liyana! :)
 
-I’m a Computer Science & Engineering graduate working in the women in tech space. I'm passionate about inclusion - in levelling the playing field for the deliberately marginalized. 
+I’m a Computer Science & Engineering graduate working in the women in tech space. I'm passionate about inclusion - in levelling the playing field for the marginalized. 
 
 I love to read. I love to write too, though this wouldn't come as a surprise. You can win my heart over with a well made cup of tea. 
 
